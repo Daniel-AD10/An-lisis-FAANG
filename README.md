@@ -33,3 +33,7 @@ El objetivo de este proyecto es aplicar herramientas de análisis de datos en un
 Se busca explorar desde la recolección y procesamiento de datos históricos hasta la generación de métricas cuantitativas que permitan entender el comportamiento de los activos.
 Además de fortalecer habilidades técnicas en Python, este proyecto promueve la práctica de análisis exploratorio, visualización, manejo de riesgos y comparación de activos.
 En síntesis, funciona como un laboratorio personal para afianzar competencias en análisis de datos y su aplicación en el ámbito financiero.
+
+## Imagenes
+
+
