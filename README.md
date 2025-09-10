@@ -35,5 +35,14 @@ Además de fortalecer habilidades técnicas en Python, este proyecto promueve la
 En síntesis, funciona como un laboratorio personal para afianzar competencias en análisis de datos y su aplicación en el ámbito financiero.
 
 ## Imagenes
+### Precios Historicos FAANG
 
 ![Precios Históricos Diarios](PreciosHistóricosDiarios.png)
+
+### Rendimientos Diarios FAANG
+
+![Rendimientos Diarios FAANG](RendimientosDiarios.png)
+
+### Heat Map FAANG
+
+![Heat Map FAANG](HeatMapFAANG.png)
