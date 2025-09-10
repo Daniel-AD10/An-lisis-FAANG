@@ -14,7 +14,6 @@ Se enfoca en el análisis financiero de las principales empresas tecnológicas F
    - Ratio de Sharpe
    - Drawdown máximo
    - Value at Risk (VaR)
-   - Beta respecto al S&P 500
 
 ## Requisitos
 
@@ -26,8 +25,11 @@ pip install -r requirements.txt
 
 ## Uso
 
-Ejecutar los notebooks en la carpeta `notebooks/`. El análisis principal se encuentra en `analysis.ipynb`.
+Ejecutar el notebook principal: Análisis Financiero con Yahoo Finance.ipynb
 
 ## Objetivo
 
-Este proyecto sirve como ejemplo para un portafolio de proyectos de análisis de datos financieros.
+El objetivo de este proyecto es aplicar herramientas de análisis de datos en un contexto financiero.
+Se busca explorar desde la recolección y procesamiento de datos históricos hasta la generación de métricas cuantitativas que permitan entender el comportamiento de los activos.
+Además de fortalecer habilidades técnicas en Python, este proyecto promueve la práctica de análisis exploratorio, visualización, manejo de riesgos y comparación de activos.
+En síntesis, funciona como un laboratorio personal para afianzar competencias en análisis de datos y su aplicación en el ámbito financiero.
