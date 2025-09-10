@@ -36,4 +36,4 @@ En síntesis, funciona como un laboratorio personal para afianzar competencias e
 
 ## Imagenes
 
-![Precios Hístoricos Diarios](Precios Históricos Diarios.png)
+![Precios Históricos Diarios](Precios Históricos Diarios.png)
